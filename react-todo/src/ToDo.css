@@ -1,0 +1,37 @@
+#to-do {
+  margin: 50px 0;
+}
+
+#to-do .user-input {
+  text-align: center;
+}
+#to-do .user-input input[type=text] {
+  font-size: 14px;
+  padding: 10px;
+  width: 250px;
+}
+#to-do .user-input input[type=submit] {
+  background-color: #aaa;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 25px;
+  padding: 10px;
+}
+#to-do ul {
+  margin: 25px auto 0;
+  width: 500px;
+}
+#to-do ul li span {
+  color: #777;
+  cursor: pointer;
+  float: right;
+  font-family: sans-serif;
+}
+#to-do ul li span:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=ToDo.css.map */
